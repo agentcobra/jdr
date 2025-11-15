@@ -1,0 +1,46 @@
+name: Bug technique
+description: Signaler un problème dans la structure du repo, CI, scripts ou formatage
+labels: ["bug"]
+body:
+  - type: textarea
+    id: bug
+    attributes:
+      label: Quel est le bug ?
+      placeholder: Décris ce qui ne fonctionne pas.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Comment reproduire le problème ?
+      placeholder: |
+        1. Aller à…
+        2. Ouvrir…
+        3. Lancer…
+    validations:
+      required: false
+
+  - type: textarea
+    id: attendu
+    attributes:
+      label: Comportement attendu
+      placeholder: Ce qui aurait dû se passer.
+    validations:
+      required: false
+
+  - type: textarea
+    id: observe
+    attributes:
+      label: Comportement observé
+      placeholder: Ce qui s’est réellement passé.
+    validations:
+      required: false
+
+  - type: input
+    id: env
+    attributes:
+      label: Environnement (facultatif)
+      placeholder: OS, navigateur, version Git, etc.
+    validations:
+      required: false

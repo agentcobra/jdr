@@ -1,0 +1,40 @@
+name: Mise à jour d'une ressource
+description: Signaler un lien cassé ou une information obsolète dans l’index
+labels: ["mise-à-jour"]
+body:
+  - type: input
+    id: ressource
+    attributes:
+      label: Nom ou lien de la ressource concernée
+      placeholder: Nom exact tel qu’il apparaît dans l’index
+    validations:
+      required: true
+
+  - type: dropdown
+    id: probleme
+    attributes:
+      label: Type de problème
+      options:
+        - Lien cassé
+        - Changement d’URL
+        - Description incorrecte
+        - Informations obsolètes
+        - Autre
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Détails du problème
+      placeholder: Explique ce qui doit être corrigé.
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposition de correction
+      placeholder: Nouveau lien, nouvelle description, notes…
+    validations:
+      required: false

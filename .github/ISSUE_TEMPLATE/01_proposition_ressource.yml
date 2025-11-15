@@ -1,0 +1,66 @@
+name: Proposition de ressource
+description: Proposer une nouvelle ressource JDR à ajouter à l’index (outil, site, générateur, aide de jeu…)
+labels: ["ajout-ressource"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de ressource
+      options:
+        - Générateur
+        - Outil
+        - Aide de jeu
+        - Carte
+        - Wiki
+        - Scénario
+        - Vidéo / Chaîne
+        - Podcast
+        - Autre
+    validations:
+      required: true
+
+  - type: input
+    id: lien
+    attributes:
+      label: Lien vers la ressource
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Décris ce qu’est la ressource et à quoi elle sert.
+      placeholder: Outil permettant de…
+    validations:
+      required: true
+
+  - type: input
+    id: langue
+    attributes:
+      label: Langue de la ressource
+      placeholder: Français / Anglais / Multi
+    validations:
+      required: false
+
+  - type: dropdown
+    id: licence
+    attributes:
+      label: Licence / coût
+      options:
+        - Gratuit
+        - Payant
+        - Open Source
+        - Freemium
+        - Inconnu
+    validations:
+      required: false
+
+  - type: textarea
+    id: utilite
+    attributes:
+      label: Pourquoi cette ressource est utile ?
+      placeholder: Explique pourquoi elle mérite d’être ajoutée.
+    validations:
+      required: true

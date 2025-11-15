@@ -1,0 +1,35 @@
+name: Suggestion générale
+description: Proposer une amélioration globale du projet (catégories, structure, organisation…)
+labels: ["discussion", "amélioration"]
+body:
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Ta suggestion
+      placeholder: Décris ton idée ou amélioration.
+    validations:
+      required: true
+
+  - type: textarea
+    id: utilite
+    attributes:
+      label: Pourquoi c’est utile ?
+      placeholder: Explique la valeur ajoutée pour les utilisateurs.
+    validations:
+      required: true
+
+  - type: textarea
+    id: risques
+    attributes:
+      label: Risques ou inconvénients
+      placeholder: Optionnel, mais utile si ça change beaucoup de choses.
+    validations:
+      required: false
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Ressources / exemples
+      placeholder: Faculatif — liens, inspirations, exemples d’autres projets.
+    validations:
+      required: false
