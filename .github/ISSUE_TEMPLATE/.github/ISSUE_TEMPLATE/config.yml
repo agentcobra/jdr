@@ -1,0 +1,12 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: 💬 Discussions générales
+    url: https://github.com/agentcobra/jdr/discussions
+    about: Pour parler du projet, poser des questions ou proposer des idées informelles.
+
+issue_template_order:
+  - 01_proposition_ressource.yml
+  - 02_mise_a_jour.yml
+  - 03_suggestion_generale.yml
+  - 04_bug_technique.yml
