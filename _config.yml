@@ -1,7 +1,9 @@
 # Site settings
 title: "Ressources pour Jeux de Rôle (JDR)"
 description: "Un recueil collaboratif de liens utiles pour les joueurs et maîtres du jeu : outils, générateurs, aides de jeu et inspirations."
-theme: just-the-docs
+theme: null
+remote_theme: pmarsceill/just-the-docs
+
 url: "https://agentcobra.github.io/jdr"
 
 permalink: pretty
