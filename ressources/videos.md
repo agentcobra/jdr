@@ -1,6 +1,5 @@
 ---
 title: "Vidéos"
-nav_order: 7
 ---
 
 # 📺 Vidéos & Chaînes YouTube

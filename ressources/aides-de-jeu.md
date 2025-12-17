@@ -1,6 +1,5 @@
 ---
 title: "Aides de jeu"
-nav_order: 1
 ---
 
 # 📄 Aides de jeu

@@ -1,6 +1,5 @@
 ---
 title: "Cartes"
-nav_order: 2
 ---
 
 # 🗺 Cartes & Plans

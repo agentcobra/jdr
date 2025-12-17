@@ -1,6 +1,5 @@
 ---
 title: "Outils"
-nav_order: 4
 ---
 
 # 🛠 Outils JDR

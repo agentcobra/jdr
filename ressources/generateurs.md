@@ -1,6 +1,5 @@
 ---
 title: "Générateurs"
-nav_order: 3
 ---
 
 # 🔧 Générateurs JDR

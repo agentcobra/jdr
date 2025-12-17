@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Accueil
+title: "Accueil"
+nav_order: 1
 ---
 
 # 🎲 Ressources pour Jeux de Rôle (JDR)

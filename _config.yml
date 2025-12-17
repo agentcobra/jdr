@@ -73,8 +73,6 @@ nav_external_links:
 # Aux links
 aux_links:
   Template Repository: https://github.com/agentcobra/jdr
-  "Just the Docs on GitHub":
-    - "https://github.com/just-the-docs/just-the-docs"
 aux_links_new_tab: false
 
 # Footer
@@ -91,7 +89,6 @@ gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/agentcobra/jdr"
 gh_edit_branch: "dev"
-gh_edit_source: ressources
 gh_edit_view_mode: "tree"
 
 # Theme

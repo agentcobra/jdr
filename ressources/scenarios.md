@@ -1,6 +1,5 @@
 ---
 title: "Scénarios"
-nav_order: 6
 ---
 
 # 📜 Scénarios & Outils d’écriture
