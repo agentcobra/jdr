@@ -1,3 +1,8 @@
+---
+title: "Cartes"
+nav_order: 2
+---
+
 # 🗺 Cartes & Plans
 
 Ressources liées aux cartes, plans de donjons, atlas, générateurs de maps.
