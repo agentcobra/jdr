@@ -5,29 +5,41 @@ Un recueil collaboratif de ressources pour le jeu de rôle
 
 🌐 **Site** : https://agentcobra.github.io/jdr/
 
-## Objectif du projet
+## Objectif
 
-Centraliser et organiser des ressources utiles pour :
-- les joueurs
-- les maîtres du jeu
-- tous les systèmes et univers
+Centraliser des ressources utiles pour :
+- joueurs
+- maîtres du jeu
+- tous types d’univers et systèmes
 
 Le projet privilégie :
-- la clarté
-- la contribution ouverte
-- la pérennité des liens
+- clarté
+- contributions ouvertes
+- pérennité des liens
+
+## Menu du site
+
+- **Outils** : Plateformes et aides collaboratives
+- **Générateurs** : Personnages, univers, PNJ
+- **Aides de jeu** : Fiches, supports et organisation
+- **Cartes** : Création de cartes et plans
+- **Scénarios** : Campagnes et one-shot
+- **Wikis** : Bases de connaissances et worldbuilding
+- **Vidéos** : Chaînes et tutoriels
+- **Podcasts** : Actual play et discussions
+- **Univers** : Contemporain, fantasy, horreur, SF
+- **Améliorer le projet** : Proposer des idées ou ressources
 
 ## Contribuer
 
-Toute contribution est la bienvenue :
-- proposer une nouvelle ressource
-- corriger un lien
-- améliorer la structure
-- suggérer une évolution du site
+- Proposer une nouvelle ressource
+- Corriger un lien ou une information
+- Suggérer une évolution de la structure
+- Signaler un bug technique
 
-➡️ Voir [CONTRIBUTING.md](CONTRIBUTING.md)  
-➡️ Utiliser les templates d’issues GitHub
+➡️ [CONTRIBUTING.md](CONTRIBUTING.md)  
+➡️ [Ouvrir une issue](https://github.com/agentcobra/jdr/issues/new/choose)
 
 ## Licence
 
-Contenus partagés sous licence libre (sauf mention contraire).
+Contenus partagés sous licence libre (sauf mention contraire)

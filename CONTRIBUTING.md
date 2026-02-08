@@ -2,27 +2,14 @@
 title: Améliorer le projet
 nav_order: 99
 ---
+# Améliorer le projet
 
-## Une idée ? Un problème ? Une suggestion ?
-
-Ce site est **vivant** et évolue grâce à vos retours.
+Ce site est collaboratif et peut évoluer grâce à vos contributions.
 
 Vous pouvez :
-- proposer une nouvelle catégorie
-- suggérer une amélioration du contenu
-- signaler un problème technique
-- discuter de l’organisation du site
+- proposer une nouvelle ressource
+- suggérer des améliorations
+- signaler un bug ou un problème technique
 
-## Comment faire ?
-
-Tout passe par les **issues GitHub**, avec des formulaires dédiés :
-
-👉 https://github.com/agentcobra/jdr/issues/new/choose
-
-Chaque type de demande a son modèle :
-- proposition de ressource
-- mise à jour
-- suggestion générale
-- bug technique
-
-Cela permet de garder le projet clair, organisé et collaboratif.
+Tout passe par **les issues GitHub** :  
+👉 [Proposer une amélioration](https://github.com/agentcobra/jdr/issues/new/choose)
