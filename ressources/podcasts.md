@@ -1,19 +1,9 @@
 ---
-title: "Podcasts"
+title: Podcasts
+parent: Ressources
+nav_order: 8
 ---
 
-# 🎧 Podcasts JDR
-
-Sélection de podcasts autour du JDR : discussions, analyse, actual plays.
-
-## 🎲 Actual Plays
-
-- ...
-
-## 🗣 Analyses & conseils
-
-- ...
-
-## 🔎 Découvertes d’univers
-
-- ...
+- Podcasts francophones et internationaux
+- Discussions MJ / joueurs
+- Création de scénarios

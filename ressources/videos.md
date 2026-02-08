@@ -1,19 +1,11 @@
 ---
-title: "Vidéos"
+title: Vidéos
+parent: Ressources
+nav_order: 7
 ---
 
-# 📺 Vidéos & Chaînes YouTube
+## Chaînes YouTube
 
-Chaînes et vidéos utiles pour MJ et joueurs.
-
-## 📚 Conseils MJ / joueurs
-
-- ...
-
-## 🎲 Actual Plays
-
-- ...
-
-## 🛠 Tutoriels & outils
-
-- ...
+- Actual Play
+- Conseils MJ
+- Analyse de systèmes

@@ -1,19 +1,11 @@
 ---
-title: "Cartes"
+title: Cartes et plans
+parent: Ressources
+nav_order: 4
 ---
 
-# 🗺 Cartes & Plans
+- **Inkarnate** – Création de cartes fantasy.  
+  https://inkarnate.com
 
-Ressources liées aux cartes, plans de donjons, atlas, générateurs de maps.
-
-## 🏞 Cartes de mondes
-
-- ...
-
-## 🏰 Plans de donjons / bâtiments
-
-- ...
-
-## 🧰 Outils de création de cartes
-
-- ...
+- **Dungeon Scrawl** – Dessin rapide de plans de donjons.  
+  https://dungeonscrawl.com

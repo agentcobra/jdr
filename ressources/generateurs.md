@@ -1,23 +1,18 @@
 ---
-title: "Générateurs"
+title: Générateurs
+parent: Ressources
+nav_order: 2
 ---
 
-# 🔧 Générateurs JDR
+## Générateurs de personnages et PNJ
 
-Liste des générateurs utiles pour MJ et joueurs.
+- **Fast Character** – Génération rapide de personnages pour plusieurs systèmes.  
+  https://fastcharacter.com
 
-## 🧙 Générateurs de personnages
+- **Donjon.bin.sh** – Générateurs aléatoires (noms, quêtes, PNJ, donjons).  
+  https://donjon.bin.sh
 
-- Exemple : [Générateur de PNJ](https://www.rpg-generator.example)
+## Générateurs d’univers et d’idées
 
-## 🗺 Générateurs de lieux / cartes
-
-- Exemple : [Donjon générique](https://www.dungeon-generator.example)
-
-## 📜 Générateurs de scénarios / quêtes
-
-- Exemple : [Scénarios aléatoires](https://www.quest-generator.example)
-
-## 📦 Générateurs divers
-
-- ...
+- **Chaotic Shiny** – Générateurs d’idées, d’intrigues et de mondes.  
+  https://chaoticshiny.com

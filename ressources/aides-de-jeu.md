@@ -1,19 +1,17 @@
 ---
-title: "Aides de jeu"
+title: Aides de jeu
+parent: Ressources
+nav_order: 3
 ---
 
-# 📄 Aides de jeu
+## Fiches et supports
 
-Ressources imprimables, pense-bêtes, mécaniques, fiches, etc.
+- Fiches de personnage imprimables
+- Aides-mémoire pour MJ
+- Règles résumées
 
-## 🧩 Aides MJ
+## Gestion de partie
 
-- ...
-
-## 🎭 Aides joueurs
-
-- ...
-
-## 📚 Règles et mécaniques
-
-- ...
+- Suivi d’initiative
+- Gestion du temps et des scènes
+- Aides pour l’improvisation

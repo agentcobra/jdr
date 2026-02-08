@@ -1,19 +1,9 @@
 ---
-title: "Scénarios"
+title: Scénarios
+parent: Ressources
+nav_order: 5
 ---
 
-# 📜 Scénarios & Outils d’écriture
-
-Scénarios prêts à jouer, frameworks narratifs et ressources d’écriture.
-
-## 📝 Scénarios gratuits
-
-- ...
-
-## 💰 Scénarios payants ou premium
-
-- ...
-
-## 🧠 Outils d’écriture et conseils
-
-- ...
+- Scénarios one-shot
+- Campagnes complètes
+- Accroches narratives prêtes à jouer

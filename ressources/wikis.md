@@ -1,15 +1,11 @@
 ---
-title: "Wikis"
+title: Wikis et bases de connaissances
+parent: Ressources
+nav_order: 6
 ---
 
-# 🌐 Wikis & Univers
+- **Obsidian Portal** – Gestion de campagnes et univers.  
+  https://www.obsidianportal.com
 
-Wikis liés à des univers JDR, officiels ou communautaires.
-
-## 📚 Univers spécifiques
-
-- ...
-
-## 🌍 Encyclopédies généralistes
-
-- ...
+- **World Anvil** – Outil complet de worldbuilding.  
+  https://www.worldanvil.com
