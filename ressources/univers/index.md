@@ -1,6 +1,5 @@
 ---
 title: Univers
-parent: Ressources
 nav_order: 9
 ---
 

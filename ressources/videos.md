@@ -1,6 +1,5 @@
 ---
 title: Vidéos
-parent: Ressources
 nav_order: 7
 ---
 

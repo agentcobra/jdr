@@ -1,6 +1,5 @@
 ---
 title: Outils
-parent: Ressources
 nav_order: 1
 ---
 

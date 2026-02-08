@@ -1,6 +1,5 @@
 ---
 title: Wikis et bases de connaissances
-parent: Ressources
 nav_order: 6
 ---
 

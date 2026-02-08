@@ -1,6 +1,5 @@
 ---
 title: Podcasts
-parent: Ressources
 nav_order: 8
 ---
 

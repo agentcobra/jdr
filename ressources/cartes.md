@@ -1,6 +1,5 @@
 ---
 title: Cartes et plans
-parent: Ressources
 nav_order: 4
 ---
 

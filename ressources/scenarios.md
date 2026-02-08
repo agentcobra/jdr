@@ -1,6 +1,5 @@
 ---
 title: Scénarios
-parent: Ressources
 nav_order: 5
 ---
 

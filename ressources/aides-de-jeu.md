@@ -1,6 +1,5 @@
 ---
 title: Aides de jeu
-parent: Ressources
 nav_order: 3
 ---
 

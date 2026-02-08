@@ -1,6 +1,5 @@
 ---
 title: Générateurs
-parent: Ressources
 nav_order: 2
 ---
 
